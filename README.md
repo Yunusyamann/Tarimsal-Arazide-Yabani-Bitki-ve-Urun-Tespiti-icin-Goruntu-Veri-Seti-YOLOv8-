@@ -31,7 +31,7 @@ Veri seti, 4 farklı tarımsal ürün ve 2 farklı yabani bitki sınıfını iç
 
 Veri setinin tamamına aşağıdaki Google Drive bağlantısından erişebilirsiniz. Dosyalar, standart YOLO eğitim yapısına uygun olarak `train/`, `valid/` ve `test/` klasörleri altında düzenlenmiştir. Her bir klasörün içinde `images/` ve `labels/` alt klasörleri bulunmaktadır.
 
-➡️ **Veri Seti İndirme Bağlantısı:** **[DRIVE_LINKINIZI_BURAYA_EKLEYIN]**
+➡️ **Veri Seti İndirme Bağlantısı:** **https://drive.google.com/drive/folders/1DVpdp8AgHTBbPS302qL0YAqJnd44ndFB**
 
 ## 📜 İlişkili Yayın ve Alıntı Yapma
 
